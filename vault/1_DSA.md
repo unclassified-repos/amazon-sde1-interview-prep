@@ -17,3 +17,5 @@ Topics:
 	3. Divide n Conquer
 	4. Greedy technique
 	5. Dynamic Programming
+
+- [Amazon Problems Sheet](https://docs.google.com/document/d/128wI_LxgR8dBNsEuYvxv5tZuNx_UDdTeTMKVTnPksb0/edit)
